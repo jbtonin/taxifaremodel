@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jean-bricetonin/code/jbtonin/TaxiFareModel/mlruns/1/2e4731b93b47437d896cd1c4d0519654/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 2e4731b93b47437d896cd1c4d0519654
+run_uuid: 2e4731b93b47437d896cd1c4d0519654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621340485598
+status: 1
+tags: []
+user_id: unknown
